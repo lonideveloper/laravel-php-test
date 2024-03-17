@@ -10,7 +10,8 @@ use App\Models\User;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 
-
+//here are the changes
+//Here are some more changes
 class AuthController extends Controller
 {
     public function register(RegisterRequest $request){
