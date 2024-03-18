@@ -13,6 +13,8 @@ use Illuminate\Support\Facades\Mail;
 
 //Changes in company controller
 
+//changes for the test branch
+
 class CompanyController extends Controller
 {
     /**

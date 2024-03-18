@@ -12,6 +12,7 @@ use Illuminate\Support\Facades\Hash;
 
 //here are the changes
 //Here are some more changes
+//changes for the test branch
 class AuthController extends Controller
 {
     public function register(RegisterRequest $request){
